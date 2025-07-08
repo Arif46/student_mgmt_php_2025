@@ -174,9 +174,16 @@ $error = isset($_GET['error']) ? $_GET['error'] : null;
 </head>
 <body>
     <div class="page-container">
-        <div class="page-header">
+        <!-- <div class="page-header">
             <h2>📚 All Courses</h2>
             <a href="add.php" class="btn btn-primary">+ Add New Course</a>
+        </div> -->
+        <div class="page-header" style="display: flex; justify-content: space-between; align-items: center;">
+            <h2 class="page-title">🎓 All Courses</h2>
+            <a href="../index.php" class="btn btn-secondary">🏠 Go to Home</a>
+        </div>
+        <div method="get" class="form-inline">
+            <a href="add.php" class="btn btn-primary">➕ Add New Course</a>
         </div>
 
         <?php if ($success): ?>

@@ -25,7 +25,11 @@ $result = $conn->query($sql);
 </head>
 <body>
     <div class="page-container">
-        <h2 class="page-title">🎓 Student List</h2>
+        <div class="page-header" style="display: flex; justify-content: space-between; align-items: center;">
+            <h2 class="page-title">🎓 Student List</h2>
+            <a href="../index.php" class="btn btn-secondary">🏠 Go to Home</a>
+        </div>
+        <!-- <h2 class="page-title">🎓 Student List</h2> -->
 
         <form method="get" class="form-inline">
             <input type="text" name="search" class="form-control" placeholder="Search by name, dept, batch, ID" value="<?= htmlspecialchars($search) ?>">

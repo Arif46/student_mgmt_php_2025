@@ -9,8 +9,8 @@
 <h1>Student Information Management System</h1>
 
 <div class="tab-menu">
-    <a href="#students">👨‍🎓 Students</a>
-    <a href="#courses">📚 Courses</a>
+    <a href="students/list.php">👨‍🎓 Students</a>
+    <a href="courses/list.php">📚 Courses</a>
     <a href="#enroll">📝 Enrollments</a>
     <a href="#advisors">👨‍🏫 Advisors</a>
     <a href="#attendance">🗓 Attendance</a>
