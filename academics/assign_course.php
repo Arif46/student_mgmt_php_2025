@@ -245,7 +245,7 @@ if (isset($_POST['submit'])) {
             <button type="submit" name="submit" class="btn btn-primary btn-block">Enroll Student</button>
         </form>
         
-        <!-- <a href="list.php" class="back-link">← Back to Enrollment List</a> -->
+        <a href="../index.php" class="back-link">← Back to Home Page</a>
     </div>
 </body>
 </html>

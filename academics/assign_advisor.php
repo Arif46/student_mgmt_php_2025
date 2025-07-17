@@ -213,8 +213,7 @@ if (isset($_POST['submit'])) {
             
             <button type="submit" name="submit" class="btn btn-primary btn-block">Assign Advisor</button>
         </form>
-        
-        <!-- <a href="list.php" class="back-link">← Back to Advisor List</a> -->
+        <a href="../index.php" class="back-link">← Back to Home Page</a>
     </div>
 </body>
 </html>

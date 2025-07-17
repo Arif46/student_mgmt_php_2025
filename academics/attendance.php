@@ -324,6 +324,7 @@ if (isset($_GET['student_id'])) {
                     </select>
                 </div>
                 <button type="submit" class="btn btn-primary">View Attendance</button>
+                <a href="../index.php" class="back-link">← Back to Home Page</a>
             </form>
             
             <?php if (!empty($attendanceData)): ?>

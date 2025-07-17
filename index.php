@@ -11,10 +11,10 @@
 <div class="tab-menu">
     <a href="students/list.php">👨‍🎓 Students</a>
     <a href="courses/list.php">📚 Courses</a>
-    <a href="#enroll">📝 Enrollments</a>
-    <a href="#advisors">👨‍🏫 Advisors</a>
-    <a href="#attendance">🗓 Attendance</a>
-    <a href="#transcripts">📄 Transcripts</a>
+    <a href="academics/assign_course.php">📝 Enrollments</a>
+    <a href="academics/assign_advisor.php">👨‍🏫 Advisors</a>
+    <a href="academics/attendance.php">🗓 Attendance</a>
+    <a href="academics/transcripts.php">📄 Transcripts</a>
 </div>
 
 <div class="tab-content">

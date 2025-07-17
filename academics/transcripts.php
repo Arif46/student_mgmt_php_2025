@@ -238,6 +238,7 @@ if (isset($_GET['student_id'])) {
                     </select>
                 </div>
                 <button type="submit" class="btn btn-primary">View Transcript</button>
+                <a href="../index.php" class="back-link">← Back to Home Page</a>
             </form>
         </div>
         
