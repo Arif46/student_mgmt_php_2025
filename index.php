@@ -153,29 +153,29 @@
                 </a>
             </div>
             
-            <div class="card">
+            <!-- <div class="card">
                 <a href="academics/assign_advisor.php">
                     <i class="fas fa-chalkboard-teacher"></i>
                     <h2>Advisors</h2>
                     <p>Assign and manage faculty advisors for students</p>
                 </a>
-            </div>
+            </div> -->
             
-            <div class="card">
+            <!-- <div class="card">
                 <a href="academics/attendance.php">
                     <i class="fas fa-calendar-check"></i>
                     <h2>Attendance</h2>
                     <p>Track and manage student attendance records</p>
                 </a>
-            </div>
+            </div> -->
             
-            <div class="card">
+            <!-- <div class="card">
                 <a href="academics/transcripts.php">
                     <i class="fas fa-file-alt"></i>
                     <h2>Transcripts</h2>
                     <p>Generate and view academic transcripts and reports</p>
                 </a>
-            </div>
+            </div> -->
         </div>
     </div>
     
